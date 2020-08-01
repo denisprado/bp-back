@@ -1,0 +1,20 @@
+{
+  "doughs": [
+    { "id": 1, "title": "natural", "price": 15 },
+    { "id": 2, "title": "integral", "price": 20 }
+  ],
+  "sizes": [
+    { "id": 1, "title": "brotinho", "price": 10 },
+    { "id": 2, "title": "grande", "price": 10 },
+    { "id": 3, "title": "familia", "price": 20 }
+  ],
+  "toppings": [
+    { "id": 1, "title": "vegetariana", "price": 10 },
+    { "id": 2, "title": "calabresa", "price": 10 }
+  ],
+  "pages": [
+    { "id": 1, "title": "massas", "path": "doughs" },
+    { "id": 2, "title": "tamanhos", "path": "sizes" },
+    { "id": 3, "title": "recheios", "path": "toppings " }
+  ]
+}
