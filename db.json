@@ -2,46 +2,46 @@
   "items": [
     {
       "id": 1,
-      "title": "natural",
+      "title": "Fermentação Natural",
       "price": 15,
       "page_id": 1,
       "promotion": true
     },
     {
       "id": 2,
-      "title": "integral",
+      "title": "Integral",
       "price": 20,
       "page_id": 1
     },
     {
       "id": 3,
-      "title": "brotinho",
+      "title": "Pizza Brotinho",
       "price": 10,
       "page_id": 2
     },
     {
       "id": 4,
-      "title": "grande",
+      "title": "Grande",
       "price": 10,
       "page_id": 2,
       "promotion": true
     },
     {
       "id": 5,
-      "title": "familia",
+      "title": "Familia",
       "price": 20,
       "page_id": 2
     },
     {
       "id": 6,
-      "title": "vegetariana",
+      "title": "Vegetariana",
       "price": 10,
       "page_id": 3,
       "promotion": true
     },
     {
       "id": 7,
-      "title": "calabresa",
+      "title": "Calabresa",
       "price": 10,
       "page_id": 3
     }
@@ -49,25 +49,30 @@
   "pages": [
     {
       "id": 1,
-      "title": "massas",
+      "title": "o tipo de massa",
       "path": "doughs"
     },
     {
       "id": 2,
-      "title": "tamanhos",
+      "title": "o tamanho",
       "path": "sizes"
     },
     {
       "id": 3,
-      "title": "recheios",
+      "title": "seu recheio",
       "path": "toppings "
     }
   ],
   "promo": [
     {
       "id": 1,
-      "title": "Parabéns! Você pediu a pizza do dia e ganhou um Bonus!",
+      "title": "Parabéns! Você pediu a pizza do dia e ganhou um Bônus!",
       "value": 100
+    },
+    {
+      "id": 2,
+      "title": "Você não ganhou bônus, mas aproveite sua pizza!",
+      "value": 0
     }
   ]
 }
